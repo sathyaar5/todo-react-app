@@ -37,6 +37,10 @@
   }
 }
 
-.center {
-  
+body {
+  background-color: lightyellow;
+}
+
+.li {
+  text-align: left;
 }
